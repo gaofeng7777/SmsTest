@@ -1,2 +1,2 @@
 # SmsTest
-C++调用androidAPI发短信
+C++调用androidAPI 发短信
